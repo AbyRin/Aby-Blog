@@ -1,0 +1,6 @@
+[submodule "aby-blog-frontend"]
+	path = aby-blog-frontend
+	url = git@github.com:AbyRin/aby-blog-frontend.git
+[submodule "AbyBlog-app"]
+	path = AbyBlog-app
+	url = git@github.com:AbyRin/AbyBlog-app.git
